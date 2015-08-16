@@ -1,1 +1,1 @@
-Here's a little repo I created with which to work on some nice Web Development Tutorials with.
+Here's a little repo I created with which to work on some nice Web Development Tutorials.
